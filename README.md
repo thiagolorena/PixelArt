@@ -13,7 +13,7 @@ It's simple, download and use in your project.
 
 ![alt tag](https://github.com/thiagolorena/PixelArt/blob/master/Heroi_1_CabeloPreto.png)
 
-![alt_tag](https://github.com/thiagolorena/PixelArt/blob/master/Block_Cave_1.png)
+![alt_tag](https://github.com/thiagolorena/PixelArt/blob/master/Block_Cave_1.gif)
 ![alt_tag](https://github.com/thiagolorena/PixelArt/blob/master/Block_Cave_2.png)
 ![alt_tag](https://github.com/thiagolorena/PixelArt/blob/master/Block_Cave_3.png)
 
