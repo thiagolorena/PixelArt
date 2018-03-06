@@ -9,6 +9,10 @@ My idea is just to keep my codes/games as a portfolio in this place.
 
 It's simple, download and use in your project.
 
+## Preview
+
+https://github.com/thiagolorena/PixelArt/blob/master/Heroi_1_CabeloPreto.png
+
 ### Prerequisites
 
 N/A
