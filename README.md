@@ -11,7 +11,7 @@ It's simple, download and use in your project.
 
 ## Preview
 
-https://github.com/thiagolorena/PixelArt/blob/master/Heroi_1_CabeloPreto.png
+![alt tag](https://github.com/thiagolorena/PixelArt/blob/master/Heroi_1_CabeloPreto.png)
 
 ### Prerequisites
 
