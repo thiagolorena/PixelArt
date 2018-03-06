@@ -17,6 +17,7 @@ It's simple, download and use in your project.
 ![alt_tag](https://github.com/thiagolorena/PixelArt/blob/master/Block_Cave_2.png)
 ![alt_tag](https://github.com/thiagolorena/PixelArt/blob/master/Block_Cave_3.png)
 
+![alt_tag](https://github.com/thiagolorena/PixelArt/blob/master/Aranha1.png)
 
 ### Prerequisites
 
